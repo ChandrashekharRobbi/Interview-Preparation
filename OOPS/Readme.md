@@ -55,6 +55,7 @@ In OOP, you combine the code into one unit so you can specify the parameters of 
 By using classes, you can generalise your object types and make your application easier to use. This is termed as an abstraction.
 The ability for a class to inherit characteristics and behaviours from another class allows for more code reuse.
 Polymorphism allows for the creation of several objects from a single, adaptable class of code.
+
 # 11. Is it possible to call the base class method without creating an instance?
 Yes, we can possibly call the base class method without creating an instance in the following 3 cases:
 
@@ -62,3 +63,46 @@ If the method is static
 Calling the inherited method inside a derived class
 Calling the method using the base keyword from the sub-classes
 The most popular case is that of the static methods.
+
+# 12. What are the limitations of OOPs?
+Following are some of the common limitations of OOPs:
+
+Size exceeds that of other programs.
+It took a lot of work to make, and it runs more slowly than other programs.
+It is inappropriate for certain types of issues.
+It takes some getting used to.
+# 13. What are constructors?
+The constructor has the same name as the class.
+A constructor is also a special kind of method. It is used to initialize objects of the class.
+
+# 14. Types of constructor
+Types of constructors depend upon languages
+
+Private Constructor
+Default Constructor
+Copy Constructor
+Static Constructor
+Parameterized Constructor
+Types of constructor
+# 15. What is the difference between a class and a structure?
+Class: Class is basically a User-defined blueprint from which objects are created. It consists of methods ( set of instructions) that are performed on the objects.
+
+Structure: A structure is also a user-defined collection of variables. Structures are also different data types.
+
+A user-defined class serves layout or blueprint from which objects can be built. In essence, a class is made up of fields known as attributes and methods known as member functions that define actions. A structure is a grouping of variables of various data kinds under one heading.
+
+# 16. What are the access modifiers?
+Access modifiers or access specifiers are the keywords in object-oriented languages.  It helps to set the accessibility of classes, methods, and other members.
+
+# 17. What languages come under the oops concept?
+Simula is known as the first object-oriented programming language, the most popular OOP languages are:
+
+Java
+JavaScript
+Python
+C++
+Visual Basic
+.NET
+Ruby
+Scala
+PHP
